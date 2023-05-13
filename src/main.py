@@ -1,4 +1,4 @@
-# Crafteds Probabilities 1.1.2
+# Crafteds Probabilities v1.1.3
 # Made by FAZuH
 
 import Message
