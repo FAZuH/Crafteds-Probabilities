@@ -1,9 +1,10 @@
-from colorama import Fore, Style
+from colorama import init, Fore, Style
 from decimal import Decimal
 
 import IngredientProbability as IngProb
 import IngredientIdentification as IngID
 
+init()
 def print_red(message):
     print(Fore.LIGHTRED_EX + message + Style.RESET_ALL)
 
